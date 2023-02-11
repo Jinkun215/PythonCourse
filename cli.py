@@ -5,6 +5,8 @@ import time
 # print(help(f_readFile))
 #print(help(f_writeFile))
 
+#added comment
+
 now = time.strftime("%b %d, %Y %H:%M:%S")
 print("It is currently", now)
 while True:

@@ -1,5 +1,7 @@
-eat boar
-Eat steak
-Eat crocodile
-Pet the cat
+Eat Ramen
+Pet the cats
 Learn C++
+Wash dishes
+Buy coke
+Clean the car
+Test the app
